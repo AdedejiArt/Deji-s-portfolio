@@ -21,7 +21,7 @@ const Works = () => {
 							/>
 							<div className="work-title">Hence Technologies</div>
 							<div className="work-subtitle">
-								Software Engineering Intern
+								Software Engineer
 							</div>
 							<div className="work-duration">June 2023 - Present</div>
 						</div>
